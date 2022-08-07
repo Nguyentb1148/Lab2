@@ -46,6 +46,7 @@ public class Main {
         System.out.println("EvenMax: "+evenMax);
         System.out.println("EvenSum: "+evenSum);
     }
+
     //7
     public static void smartAndLargest()
     {
