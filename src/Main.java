@@ -6,7 +6,7 @@ public class Main {
     {
         median();
     }
-    //9
+    //9.1
     public static void median()
     {
         int a=0,b=0;
