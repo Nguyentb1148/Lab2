@@ -46,10 +46,10 @@ public class Main {
         System.out.println("EvenMax: "+evenMax);
         System.out.println("EvenSum: "+evenSum);
     }
-
     //7
     public static void smartAndLargest()
     {
+//
         Scanner sc=new Scanner(System.in);
         System.out.println("How many numbers do you want to enter?");
         int n= sc.nextInt();
